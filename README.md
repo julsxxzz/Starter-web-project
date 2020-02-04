@@ -6,7 +6,7 @@ YES
 EDIT
 
 ##Comments
-2014 Git training
+2014 Git training. All rights reserved.
 
 PLEASE PLEASE PLEASE
 
